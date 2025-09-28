@@ -11,11 +11,4 @@ This is my space for projects, experiments, and learning in public.
 
 ---
 
-## What I so
-- Small projects & experiments
-- Things I’m learning along the way
-- Work in progress (always)
-
----
-
  Thanks for stopping by!
