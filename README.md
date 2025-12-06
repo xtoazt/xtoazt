@@ -1,13 +1,11 @@
 # wsp
 
-I'm into building cool stuff with code.  
-This is my space for projects, experiments, and learning in public.
+I'm only making projects on [Azalea](https://github.com/xazalea) now, check that out cuz its just so cool.
 
 ---
 
 ## Connect
-- Chat with me or support: [realchatfr.vercel.app](https://realchatfr.vercel.app/)  
-  Username: **rohan**
+- Chat with me or support: [Email](mynameisrohanandthisismyemail@gmail.com)
 
 ---
 
