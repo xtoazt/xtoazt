@@ -5,7 +5,7 @@ I'm only making projects on [Azalea](https://github.com/xazalea) now, check that
 ---
 
 ## Connect
-- Chat with me or support: [Email](mynameisrohanandthisismyemail@gmail.com)
+- Chat with me or support: (mynameisrohanandthisismyemail@gmail.com)
 
 ---
 
